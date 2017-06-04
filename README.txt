@@ -1,5 +1,6 @@
 ##### LEDCube #####
 
+Arduino code for running a 4x4x4 LED cube.  This may be expanded later to run many sizes of LED cubes.
 
 For help, please visit the forums https://marginallyclever.com/forum
 
